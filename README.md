@@ -46,14 +46,15 @@
   </div>
   
 
-<h3 align="left">Databases :</h3>
+
+ <!-- <h3 align="left">Databases :</h3>
 <div align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <!-- <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> -->
   <!-- <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
 </div>
-
+ -->
 
 <!--<h3 align="left">Hosting :</h3>
 <div align="left">
