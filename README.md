@@ -50,6 +50,13 @@
 <div align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     </div>
+
+<h3 align="left">Hosting :</h3>
+ <div align="left">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</div><br/>
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinodchouhan01&show_icons=true&locale=en&layout=compact" alt="Vinodchouhan01" /></td>
